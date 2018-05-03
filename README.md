@@ -8,3 +8,4 @@ A small story based campaign for Warhammer 40,000 using an XP based system for c
 * [Mission 3](./mission3.md)
 ## Additional Rules
 * [Character Advancement](./advancement.md)
+* [Sentries](./sentries.md)
