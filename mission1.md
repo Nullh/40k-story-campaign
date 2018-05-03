@@ -19,6 +19,7 @@ The Chaos player may have up to 7 models in their army. One representing each pl
 
 ## Victory
 The Chaos player must embark one unit into the target bunker in order to disable the void shields and win the mission.
+The Chaos player gains victory points equal to the Imperial players army cost in power.
 ## Special Rules
 The Chaos player begins with no models on the board as their army is set up in the warp, however they have control of the librarian. At any time the Chaos player can choose to trigger the Cycolospora within the librarian, slaying the librarian immediately in a shower of blood and summoning the Chaos troops from the warp. All Chaos troops must then be deployed within 9" of the location of the librarian. This counts as their movement.
 
